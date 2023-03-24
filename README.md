@@ -1,5 +1,5 @@
 # Omini-air-app
-This is a social media app built using the MERN (MongoDB, Express, React, Node.js) stack. The app allows users to create profiles, share posts, like and comment on posts, follow other users, and more.
+This is a social media app built using the MERN (MongoDB, Express, React, Node.js) stack. The app allows users to create posts, like and comment on posts, and more.
 <br/><br/>
 <h1>Features</h1>
 User authentication with JSON Web Tokens (JWT)<br/>
