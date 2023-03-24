@@ -3,6 +3,7 @@ This is a social media app built using the MERN (MongoDB, Express, React, Node.j
 <br/><br/>
 <h1>Features</h1>
 User authentication with JSON Web Tokens (JWT)<br/>
+Google authentication </br>
 User profile creation and editing<br/>
 Create, read, update, and delete posts<br/>
 Like and comment on posts<br/>
@@ -24,7 +25,7 @@ Install the required dependencies by running npm install in both the client and 
 Create a .env file in the server directory and add your MongoDB URI and JWT secret. For example:
 makefile
 <br/><br/>
-Copy code
+<h3>Copy code</h3>
 MONGODB_URI=<your MongoDB URI><br/>
 JWT_SECRET=<your JWT secret><br/>
   Run <b>npm start</b> in both the client and server directories to start the app.
