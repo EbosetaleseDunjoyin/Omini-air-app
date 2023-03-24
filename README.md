@@ -8,17 +8,17 @@ Create, read, update, and delete posts<br/>
 Like and comment on posts<br/>
 Responsive design for mobile and desktop<br/>
   
-<h1>Technologies Used<h1/>
+<h1>Technologies Used</h1>
   <ul>
-   <li> MongoDB (NoSQL database)<li/>
-    Express.js (Web framework for Node.js)<br/>
-    React (Front-end library for building user interfaces)<br/>
-    Node.js (JavaScript runtime)<br/>
-    JWT (JSON Web Tokens for user authentication)<br/>
-    Material UI (CSS framework for responsive design)<br/><br/>
-  <ul/>
+   <li> MongoDB (NoSQL database)</li>
+    <li>Express.js (Web framework for Node.js)</li>
+    <li>React (Front-end library for building user interfaces)</li>
+    <li>Node.js (JavaScript runtime)</li>
+    <li>JWT (JSON Web Tokens for user authentication)</li>
+    <li>Material UI (CSS framework for responsive design)<br/></li>
+  </ul>
     
-<h1>Getting Started<h1/>
+<h1>Getting Started</h1>
 Clone the repository to your local machine.<br/>
 Install the required dependencies by running npm install in both the client and server directories.
 Create a .env file in the server directory and add your MongoDB URI and JWT secret. For example:
@@ -30,10 +30,11 @@ JWT_SECRET=<your JWT secret><br/>
   Run <b>npm start</b> in both the client and server directories to start the app.
 <br/><br/>
   
-  <h1>Future Improvements</h1>
-Implement real-time updates using websockets
-Allow users to upload videos
-Add more social features such as direct messaging and groups
-Improve search functionality with autocomplete and filtering
-  
+<h1>Future Improvements</h1>
+  <ul>
+  <li>  Implement real-time updates using websockets </li>
+  <li> Allow users to upload videos </li>
+  <li>  Add more social features such as direct messaging and groups </li>
+  <li>  Improve search functionality with autocomplete and filtering </li>
+  </ul>
   
